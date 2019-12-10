@@ -1,0 +1,19 @@
+{
+  "name": "advent-calendar-2019-element-ui",
+  "version": "1.0.0",
+  "description": "My scrumtrulescent Nuxt.js project",
+  "author": "rry",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "element-ui": "^2.4.11",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {}
+}
