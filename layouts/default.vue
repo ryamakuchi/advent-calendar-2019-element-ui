@@ -42,6 +42,10 @@ export default {
 </script>
 
 <style>
+html {
+  color: #5e6d82;
+}
+
 .el-menu .brand {
   font-size: 18px;
   padding-left: 10px;
